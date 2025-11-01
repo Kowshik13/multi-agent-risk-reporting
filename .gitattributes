@@ -1,0 +1,4 @@
+# Normalize line endings to LF in git checkout
+*.sh text eol=lf
+*.sql text eol=lf
+*.py  text eol=lf
